@@ -1,0 +1,25 @@
+body
+{
+    margin-top: 4cm;
+    background-color: lightgreen;
+}
+
+
+
+
+button
+{
+background-color: palegreen;
+text-align: center;
+}
+
+h2
+{
+    size: 5cm;
+    text-align: center;
+}
+
+h3
+{
+    size: 10cm;
+}
